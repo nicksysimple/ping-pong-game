@@ -1,0 +1,11 @@
+.row{
+  height: 100px;
+}
+footer{
+  height: 30px;
+  background-color: indigo;
+}
+footer p{
+  text-align: center;
+  color: white;
+}
