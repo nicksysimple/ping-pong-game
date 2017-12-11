@@ -4,11 +4,30 @@
 h1{
   color: indigo;
 }
-footer{
+
+.about{
+float: left;
+overflow: hidden;
+border: 1px solid green;
+background-color: yellowgreen;
+width: 49%;
+height: 400px;
+}
+.game{
+  float: right;
+  height: 400px;
+  overflow: hidden;
+  background-color:yellowgreen;
+  width: 49%;
+  text-align: center;
+  padding: 50px;
+  border: 1px solid green;
+}
+.footer{
   height: 30px;
   background-color: indigo;
 }
-footer p{
+.footer p{
   text-align: center;
   color: white;
 }
