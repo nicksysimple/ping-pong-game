@@ -1,6 +1,9 @@
 .row{
   height: 100px;
 }
+h1{
+  color: indigo;
+}
 footer{
   height: 30px;
   background-color: indigo;
