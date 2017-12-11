@@ -23,11 +23,11 @@ height: 400px;
   padding: 50px;
   border: 1px solid green;
 }
-.footer{
+footer{
   height: 30px;
   background-color: indigo;
 }
-.footer p{
+footer p{
   text-align: center;
   color: white;
 }
