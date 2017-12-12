@@ -1,33 +1,38 @@
-.row{
-  height: 100px;
-}
 h1{
   color: indigo;
 }
-
-.about{
-float: left;
-overflow: hidden;
-border: 1px solid green;
-background-color: yellowgreen;
-width: 49%;
-height: 400px;
+h2{
+color: white;
 }
-.game{
-  float: right;
-  height: 400px;
-  overflow: hidden;
-  background-color:yellowgreen;
-  width: 49%;
+h3{
+  color: white;
+}
+.container{
+  width: auto;
+}
+.container-fluid{
+  padding: 20px;
+}
+body{
+  background-color: grey;
+}
+.border{
+  border: 2px solid green;
+  background-color: yellowgreen;
+}
+.box{
+  margin-left: 400px;
+}
+form{
   text-align: center;
-  padding: 50px;
-  border: 1px solid green;
 }
 footer{
-  height: 30px;
   background-color: indigo;
+  height: 40px;
+
 }
 footer p{
-  text-align: center;
   color: white;
+  text-align: center;
+  padding: 10px;
 }
